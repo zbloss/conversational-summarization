@@ -2,7 +2,6 @@
 <hr>
 
 ### Read The Documentation
-[https://git.rockfin.com/pages/zbloss/conversation-summarization-rt-blog](https://git.rockfin.com/pages/zbloss/conversation-summarization-rt-blog)
 
 Codebase for creating a sentence simplification model. This is used to create content for the sentence simplification meblog post
 
