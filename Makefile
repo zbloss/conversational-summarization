@@ -5,9 +5,9 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = conversational-summarization-rt-blog
+BUCKET = conversational-summarization
 PROFILE = default
-PROJECT_NAME = conversation-summarization-rt-blog
+PROJECT_NAME = conversation-summarization
 PYTHON_INTERPRETER = python3
 
 ifeq (,$(shell which conda))
